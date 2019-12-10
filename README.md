@@ -1,7 +1,7 @@
-# TinyCircuits Whisker Arduino Shield AST2002
+# TinyCircuits Wireling Arduino Shield AST2002
 # AST2002 Rev2
 
-The design files are located under design_files/ for the TinyCircuits AST2002 Rev 2 PCB. This is a Standard Arduino Shield that allows Standard Arduino users to connect up to 4 Whiskers to their Arduino projects.
+The design files are located under design_files/ for the TinyCircuits AST2002 Rev 2 PCB. This is a Standard Arduino Shield that allows Standard Arduino users to connect up to 4 Wirelings to their Arduino projects.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
